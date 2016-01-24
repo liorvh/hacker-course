@@ -1,5 +1,5 @@
 # hacker-course
-Course For Hackers (Volunteering)
+Course For Rockstar Hackers (Volunteering)
 
 ## Lecturers
 * Volodymyr Stechenko
