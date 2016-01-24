@@ -2,10 +2,10 @@
 Course For Rockstar Hackers (Volunteering)
 
 ## Lecturers
-* Volodymyr Stechenko
+* [Volodymyr Stechenko](https://github.com/Leshist "GitHub Profile")
 * [Dmytro Stechenko](https://github.com/d5s8 "GitHub Profile")
 * [Dmytro Kolesnyk](https://github.com/kolesnyk "GitHub Profile")
-* Svyatoslav Sykalo
+* [Svyatoslav Sykalo](https://github.com/svtslvskl "GitHub Profile")
 
 ## Topics
 
