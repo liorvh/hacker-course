@@ -57,21 +57,21 @@ Course For Rockstar Hackers (Volunteering)
 ## Plans
 
 ###### Volodymyr Stechenko
-1. SDLC
-⋅⋅* Phases
++ SDLC
+- Phases
 
 
 ###### Dmytro Stechenko
-1. JSON
-⋅⋅* Types
++ JSON
+- Types
 
 ###### Dmytro Kolesnyk
-1. TCP
-⋅⋅* OSI Model
++ TCP
+- OSI Model
 
 ###### Svyatoslav Sykalo
-1. HTML
-⋅⋅* Tags
++ HTML
+- Tags
 
 ## Projects 
 
