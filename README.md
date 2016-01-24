@@ -36,7 +36,7 @@ Course For Rockstar Hackers (Volunteering)
 * Concurrency Theory 
 * Algorithm Theory  
 * Cloud Computing
-* SWE Code Of Conduct
+* Software Engineering Code of Ethics and Professional Practice
 
 ###### Dmytro Kolesnyk
 * TCP
