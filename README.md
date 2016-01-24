@@ -54,6 +54,25 @@ Course For Rockstar Hackers (Volunteering)
 * JS
 * Angular.js
 
+## Plans
+
+###### Volodymyr Stechenko
+1. SDLC
+⋅⋅* Phases
+
+
+###### Dmytro Stechenko
+1. JSON
+⋅⋅* Types
+
+###### Dmytro Kolesnyk
+1. TCP
+⋅⋅* OSI Model
+
+###### Svyatoslav Sykalo
+1. HTML
+⋅⋅* Tags
+
 ## Projects 
 
 ## Students
