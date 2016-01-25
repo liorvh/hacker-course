@@ -19,7 +19,7 @@ Course For Rockstar Hackers (Volunteering)
 * TDD
 * CI
 * Concurrency Practice
-* Algorithm Theory
+* Algorithm Practice
 * Cache 
 * Frameworks as a notion
 * Django
