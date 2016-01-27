@@ -54,7 +54,6 @@ Course For Rockstar Hackers (Volunteering)
 * HTML
 * CSS
 * JS
-* Angular.js
 
 ## Plans
 
@@ -73,7 +72,30 @@ Course For Rockstar Hackers (Volunteering)
 
 ###### Sviatoslav Sykalo
 * HTML
-  * Tags
+  * Basics
+  * Forms
+  * Images
+  * Audio
+  * Video
+* CSS
+  * Selectors
+  * Styling
+  * Positioning
+  * Media Queries
+  * Animations
+  * Frameworks
+* JS
+  * Syntax
+  * Data Types
+  * Expressions & Operators
+  * Control Statements
+  * Functions
+  * Objects
+  * Frameworks
+* Other
+  * CSS Preprocessors
+  * JS Subsets & Supersets
+  * Build Systems
 
 ## Projects
 
