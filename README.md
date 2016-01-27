@@ -7,7 +7,7 @@ Course For Rockstar Hackers (Volunteering)
 * [Volodymyr Stechenko](https://github.com/Leshist "GitHub Profile")
 * [Dmytro Stechenko](https://github.com/d5s8 "GitHub Profile")
 * [Dmytro Kolesnyk](https://github.com/kolesnyk "GitHub Profile")
-* [Svyatoslav Sykalo](https://github.com/svtslvskl "GitHub Profile")
+* [Sviatoslav Sykalo](https://github.com/svtslvskl "GitHub Profile")
 
 ## Topics
 
@@ -50,7 +50,7 @@ Course For Rockstar Hackers (Volunteering)
 * GitHub
 * Code Review
 
-###### Svyatoslav Sykalo
+###### Sviatoslav Sykalo
 * HTML
 * CSS
 * JS
@@ -71,7 +71,7 @@ Course For Rockstar Hackers (Volunteering)
 * TCP
   * OSI Model
 
-###### Svyatoslav Sykalo
+###### Sviatoslav Sykalo
 * HTML
   * Tags
 
