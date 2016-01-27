@@ -20,7 +20,7 @@ Course For Rockstar Hackers (Volunteering)
 * CI
 * Concurrency Practice
 * Algorithm Practice
-* Cache 
+* Cache
 * Frameworks as a notion
 * Django
 * Django ORM
@@ -28,26 +28,26 @@ Course For Rockstar Hackers (Volunteering)
 * Clean Code
 
 ###### Dmytro Stechenko
-* JSON 
-* SQL using Postgres 
+* JSON
+* SQL using Postgres
 * NoSQL using MongoDB
-* CAP 
+* CAP
 * Distributed Systems
-* Concurrency Theory 
-* Algorithm Theory  
+* Concurrency Theory
+* Algorithm Theory
 * Cloud Computing
 * Software Engineering Code of Ethics and Professional Practice
 
 ###### Dmytro Kolesnyk
 * TCP
 * HTTP
-* SSL 
-* HTTPS 
-* OAuth 
-* Client Server Architecture 
+* SSL
+* HTTPS
+* OAuth
+* Client Server Architecture
 * Service Oriented Architecture
-* Git 
-* GitHub 
+* Git
+* GitHub
 * Code Review
 
 ###### Svyatoslav Sykalo
@@ -75,7 +75,7 @@ Course For Rockstar Hackers (Volunteering)
 * HTML
   * Tags
 
-## Projects 
+## Projects
 
 ## Students
 
