@@ -7,7 +7,7 @@ Course For Rockstar Hackers (Volunteering)
 * [Volodymyr Stechenko](https://github.com/Leshist "GitHub Profile")
 * [Dmytro Stechenko](https://github.com/d5s8 "GitHub Profile")
 * [Dmytro Kolesnyk](https://github.com/kolesnyk "GitHub Profile")
-* [Svyatoslav Sykalo](https://github.com/svtslvskl "GitHub Profile")
+* [Sviatoslav Sykalo](https://github.com/svtslvskl "GitHub Profile")
 
 ## Topics
 
@@ -20,7 +20,7 @@ Course For Rockstar Hackers (Volunteering)
 * CI
 * Concurrency Practice
 * Algorithm Practice
-* Cache 
+* Cache
 * Frameworks as a notion
 * Django
 * Django ORM
@@ -28,33 +28,32 @@ Course For Rockstar Hackers (Volunteering)
 * Clean Code
 
 ###### Dmytro Stechenko
-* JSON 
-* SQL using Postgres 
+* JSON
+* SQL using Postgres
 * NoSQL using MongoDB
-* CAP 
+* CAP
 * Distributed Systems
-* Concurrency Theory 
-* Algorithm Theory  
+* Concurrency Theory
+* Algorithm Theory
 * Cloud Computing
 * Software Engineering Code of Ethics and Professional Practice
 
 ###### Dmytro Kolesnyk
 * TCP
 * HTTP
-* SSL 
-* HTTPS 
-* OAuth 
-* Client Server Architecture 
+* SSL
+* HTTPS
+* OAuth
+* Client Server Architecture
 * Service Oriented Architecture
-* Git 
-* GitHub 
+* Git
+* GitHub
 * Code Review
 
-###### Svyatoslav Sykalo
+###### Sviatoslav Sykalo
 * HTML
 * CSS
 * JS
-* Angular.js
 
 ## Plans
 
@@ -71,11 +70,34 @@ Course For Rockstar Hackers (Volunteering)
 * TCP
   * OSI Model
 
-###### Svyatoslav Sykalo
+###### Sviatoslav Sykalo
 * HTML
-  * Tags
+  * Basics
+  * Forms
+  * Images
+  * Audio
+  * Video
+* CSS
+  * Selectors
+  * Styling
+  * Positioning
+  * Media Queries
+  * Animations
+  * Frameworks
+* JS
+  * Syntax
+  * Data Types
+  * Expressions & Operators
+  * Control Statements
+  * Functions
+  * Objects
+  * Frameworks
+* Other
+  * CSS Preprocessors
+  * JS Subsets & Supersets
+  * Build Systems
 
-## Projects 
+## Projects
 
 ## Students
 
