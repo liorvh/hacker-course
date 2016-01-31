@@ -150,14 +150,14 @@ Course For Rockstar Hackers (Volunteering)
 * JS
   * Syntax
   * Data Types
-  * Expressions & Operators
+  * Expressions and Operators
   * Control Statements
   * Functions
   * Objects
   * Frameworks
 * Other
   * CSS Preprocessors
-  * JS Subsets & Supersets
+  * JS Subsets and Supersets
   * Build Systems
 
 ## Projects
