@@ -14,6 +14,28 @@ Course For Rockstar Hackers (Volunteering)
 ###### Volodymyr Stechenko
 * SDLC
   * Phases
+* Agile
+  * Scrum
+* Jira
+  * Projects
+  * Tickets
+  * JQL
+  * Workflows
+* TDD
+  * Unit tests
+* CI
+  * Jenkins
+* Concurrency Practice
+* Algorithm Practice
+ * Optimizations
+* Cache
+  * Basics
+  * Redis
+* Django
+  * ORM
+  * MVC
+  * Django REST
+* Clean Code
 
 ###### Dmytro Stechenko
 * JSON
@@ -78,8 +100,8 @@ Course For Rockstar Hackers (Volunteering)
   * Examples
 * Cloud Computing
   * Characteristics
-  * Service models
-  * Deployment models
+  * Service Models
+  * Deployment Models
   * Major Players
 * Software Engineering Code of Ethics and Professional Practice
 * LinkedIn
@@ -116,50 +138,51 @@ Course For Rockstar Hackers (Volunteering)
   * JS Subsets and Supersets
   * Build Systems
   
-## Topics
+## Topic Dependencies 
 
 ###### Volodymyr Stechenko
-* SDLC
-* Agile
-* Scrum
-* Jira
-* TDD
-* CI
-* Concurrency Practice
-* Algorithm Practice
-* Cache
-* Django
-* Django ORM
-* Django MVC
-* Clean Code
+* SDLC (None)
+* Agile (SDLC)
+* Jira (Agile)
+* TDD (None)
+* CI (Git, TDD, Agile)
+* Concurrency Practice (Concurrency Theory)
+* Algorithm Practice (Algorithm Theory)
+* Cache (Algorithm Practice, NoSQL)
+* Django (HTML)
+* Clean Code (None)
 
 ###### Dmytro Stechenko
-* JSON
-* SQL using Postgres
-* NoSQL using MongoDB
-* CAP
-* Distributed Systems
-* Concurrency Theory
-* Algorithm Theory
-* Cloud Computing
-* Software Engineering Code of Ethics and Professional Practice
+* JSON (SOA, HTTP)
+* SQL (Django)
+* PostgresSQL (SQL)
+* NoSQL (PostgreSQL)
+* MongoDB (NoSQL)
+* CAP (NoSQL)
+* Distributed Systems (CAP) 
+* Concurrency Theory (None)
+* Algorithm Theory (None)
+* Cloud Computing (None)
+* Software Engineering Code of Ethics and Professional Practice (None)
+* LinkedIn (None)
+* My First Job Offer (None)
 
 ###### Dmytro Kolesnyk
-* TCP
-* HTTP
-* SSL
-* HTTPS
-* OAuth
-* Client Server Architecture
-* Service Oriented Architecture
-* Git
-* GitHub
-* Code Review
+* TCP (None)
+* HTTP (TCP)
+* SSL (HTTP)
+* HTTPS (SSL)
+* OAuth (HTTPS, Django REST)
+* Client Server Architecture (None)
+* Service Oriented Architecture (Client Server Architecture)
+* Git (None)
+* GitHub (Git)
+* Code Review (GitHub)
 
 ###### Sviatoslav Sykalo
-* HTML
-* CSS
-* JS  
+* HTML (HTTP)
+* CSS (HTML)
+* JS (HTML, CSS) 
 
 ## Projects
 
