@@ -4,67 +4,108 @@ Course For Rockstar Hackers (Volunteering)
 > The mind is the only weapon that doesn't need a holster. (Paul Blart)
 
 ## Lecturers
-* [Volodymyr Stechenko](https://github.com/Leshist "GitHub Profile")
-* [Dmytro Stechenko](https://github.com/d5s8 "GitHub Profile")
-* [Dmytro Kolesnyk](https://github.com/kolesnyk "GitHub Profile")
-* [Sviatoslav Sykalo](https://github.com/svtslvskl "GitHub Profile")
-
-## Topics
-
-###### Volodymyr Stechenko
-* SDLC
-* Agile
-* Scrum
-* Jira
-* TDD
-* CI
-* Concurrency Practice
-* Algorithm Practice
-* Cache
-* Frameworks as a notion
-* Django
-* Django ORM
-* Django MVC
-* Clean Code
-
-###### Dmytro Stechenko
-* JSON
-* SQL using Postgres
-* NoSQL using MongoDB
-* CAP
-* Distributed Systems
-* Concurrency Theory
-* Algorithm Theory
-* Cloud Computing
-* Software Engineering Code of Ethics and Professional Practice
-
-###### Dmytro Kolesnyk
-* TCP
-* HTTP
-* SSL
-* HTTPS
-* OAuth
-* Client Server Architecture
-* Service Oriented Architecture
-* Git
-* GitHub
-* Code Review
-
-###### Sviatoslav Sykalo
-* HTML
-* CSS
-* JS
+* Volodymyr Stechenko [GitHub](https://github.com/Leshist "GitHub Profile") [LinkedIn](https://ua.linkedin.com/in/volodymyr-stechenko-72949191 "LinkedIn Profile")
+* Dmytro Stechenko [GitHub](https://github.com/d5s8 "GitHub Profile") [LinkedIn](https://www.linkedin.com/in/dmytrostechenko "LinkedIn Profile")
+* Dmytro Kolesnyk [GitHub](https://github.com/kolesnyk "GitHub Profile")
+* Sviatoslav Sykalo [GitHub](https://github.com/svtslvskl "GitHub Profile")
 
 ## Plans
 
 ###### Volodymyr Stechenko
 * SDLC
   * Phases
-
+* Agile
+  * Scrum
+* Jira
+  * Projects
+  * Tickets
+  * JQL
+  * Workflows
+* TDD
+  * Unit tests
+* CI
+  * Jenkins
+* Concurrency Practice
+* Algorithm Practice
+ * Optimizations
+* Cache
+  * Basics
+  * Redis
+* Django
+  * ORM
+  * MVC
+  * Django REST
+* Clean Code
 
 ###### Dmytro Stechenko
 * JSON
   * Types
+  * Syntax
+* Distributed Systems
+  * Replication
+  * Sharding
+  * Split Brain
+  * Routing
+  * Consistent Hashing
+  * Load Balancing
+* SQL
+  * ACID
+  * Design
+  * Syntax
+  * Normal Norms
+* PostgresSQL
+  * Data Types
+  * Indexes
+  * Objects
+  * Inheritance 
+  * Storage
+* NoSQL
+  * BASE
+  * Types
+  * Handling Relations
+* MongoDB
+  * CRUD
+  * Aggregation
+  * Data Model
+  * Indexes
+  * Replication
+  * Sharding
+  * Patterns
+* CAP
+  * Definition
+  * Implications
+  * Examples
+* Concurrency Theory
+  * Concurrency vs. Parallelism
+  * CPU vs IO
+  * Threads vs Processes
+  * Shared Memory
+  * Race Condition and Critical Section
+  * Synchronization
+  * Signals
+  * Deadlocks, Missed Signal, Nested Lockout, Slipped Condition
+  * Starvation and Fairness
+  * CAS Operation
+  * Blocking Queue
+  * Non-blocking algorithms 
+  * Thread Safety and Immutability 
+  * Thread Pools
+* Algorithm Theory
+  * Big O Notation
+  * Sorting
+  * Binary Search
+  * Sequences, Maps, Sets
+  * Array vs Sequence
+  * Trees and Graphs
+  * Examples
+* Cloud Computing
+  * Characteristics
+  * Service Models
+  * Deployment Models
+  * Major Players
+* Software Engineering Code of Ethics and Professional Practice
+* LinkedIn
+* My First Job Offer
 
 ###### Dmytro Kolesnyk
 * TCP
@@ -87,15 +128,61 @@ Course For Rockstar Hackers (Volunteering)
 * JS
   * Syntax
   * Data Types
-  * Expressions & Operators
+  * Expressions and Operators
   * Control Statements
   * Functions
   * Objects
   * Frameworks
 * Other
   * CSS Preprocessors
-  * JS Subsets & Supersets
+  * JS Subsets and Supersets
   * Build Systems
+  
+## Topic Dependencies 
+
+###### Volodymyr Stechenko
+* SDLC (None)
+* Agile (SDLC)
+* Jira (Agile)
+* TDD (Django)
+* CI (Git, TDD, Agile)
+* Concurrency Practice (Concurrency Theory)
+* Algorithm Practice (Algorithm Theory)
+* Cache (Algorithm Practice, NoSQL)
+* Django (HTML)
+* Clean Code (None)
+
+###### Dmytro Stechenko
+* JSON (SOA, HTTP)
+* SQL (Django)
+* PostgresSQL (SQL)
+* NoSQL (PostgreSQL)
+* MongoDB (NoSQL)
+* CAP (NoSQL)
+* Distributed Systems (CAP) 
+* Concurrency Theory (None)
+* Algorithm Theory (None)
+* Cloud Computing (None)
+* Software Engineering Code of Ethics and Professional Practice (None)
+* LinkedIn (None)
+* My First Job Offer (None)
+
+###### Dmytro Kolesnyk
+* TCP (None)
+* HTTP (TCP)
+* SSL (HTTP)
+* HTTPS (SSL)
+* OAuth (HTTPS, Django REST)
+* Client Server Architecture (None)
+* Service Oriented Architecture (Client Server Architecture)
+* Git (None)
+* GitHub (Git)
+* Code Review (GitHub)
+
+###### Sviatoslav Sykalo
+* HTML (HTTP)
+* CSS (HTML)
+* JS (HTML, CSS) 
 
 ## Projects
 
