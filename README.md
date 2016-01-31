@@ -4,10 +4,10 @@ Course For Rockstar Hackers (Volunteering)
 > The mind is the only weapon that doesn't need a holster. (Paul Blart)
 
 ## Lecturers
-* [Volodymyr Stechenko](https://github.com/Leshist "GitHub Profile")
-* [Dmytro Stechenko](https://github.com/d5s8 "GitHub Profile")
-* [Dmytro Kolesnyk](https://github.com/kolesnyk "GitHub Profile")
-* [Sviatoslav Sykalo](https://github.com/svtslvskl "GitHub Profile")
+* Volodymyr Stechenko [GitHub](https://github.com/Leshist "GitHub Profile") [LinkedIn](https://ua.linkedin.com/in/volodymyr-stechenko-72949191 "LinkedIn Profile")
+* Dmytro Stechenko [GitHub](https://github.com/d5s8 "GitHub Profile") [LinkedIn](https://www.linkedin.com/in/dmytrostechenko "LinkedIn Profile")
+* Dmytro Kolesnyk [GitHub](https://github.com/kolesnyk "GitHub Profile")
+* Sviatoslav Sykalo [GitHub](https://github.com/svtslvskl "GitHub Profile")
 
 ## Topics
 
