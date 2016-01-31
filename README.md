@@ -107,7 +107,7 @@ Course For Rockstar Hackers (Volunteering)
   * Race Condition and Critical Section
   * Synchronization
   * Signals
-  * Deadlocks
+  * Deadlocks, Missed Signal, Nested Lockout, Slipped Condition
   * Starvation and Fairness
   * CAS Operation
   * Blocking Queue
