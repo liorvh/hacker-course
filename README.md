@@ -61,10 +61,73 @@ Course For Rockstar Hackers (Volunteering)
 * SDLC
   * Phases
 
-
 ###### Dmytro Stechenko
 * JSON
   * Types
+  * Syntax
+* Distributed Systems
+  * Replication
+  * Sharding
+  * Split Brain
+  * Routing
+  * Consistent Hashing
+  * Load Balancing
+* SQL
+  * ACID
+  * Design
+  * Syntax
+  * Normal Norms
+* PostgresSQL
+  * Data Types
+  * Indexes
+  * Objects
+  * Inheritance 
+  * Storage
+* NoSQL
+  * BASE
+  * Types
+  * Handling Relations
+* MongoDB
+  * CRUD
+  * Aggregation
+  * Data Model
+  * Indexes
+  * Replication
+  * Sharding
+  * Patterns
+* CAP
+  * Definition
+  * Implications
+  * Examples
+* Concurrency Theory
+  * Concurrency vs. Parallelism
+  * CPU vs IO
+  * Threads vs Processes
+  * Shared Memory
+  * Race Condition and Critical Section
+  * Synchronization
+  * Signals
+  * Deadlocks
+  * Starvation and Fairness
+  * CAS Operation
+  * Blocking Queue
+  * Non-blocking algorithms 
+  * Thread Safety and Immutability 
+  * Thread Pools
+* Algorithm Theory
+  * Big O Notation
+  * Sorting
+  * Binary Search
+  * Sequences, Maps, Sets
+  * Array vs Sequence
+  * Trees and Graphs
+  * Examples
+* Cloud Computing
+  * Characteristics
+  * Service models
+  * Deployment models
+  * Major Players
+* Software Engineering Code of Ethics and Professional Practice
 
 ###### Dmytro Kolesnyk
 * TCP
