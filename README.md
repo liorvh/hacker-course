@@ -132,7 +132,13 @@ Course For Rockstar Hackers (Volunteering)
   * Control Statements
   * Functions
   * Objects
-  * Frameworks
+  * AJAX
+* AngularJS
+  * Expressions
+  * Directives
+  * Controllers
+  * Services
+  * Routing
 * Other
   * CSS Preprocessors
   * JS Subsets and Supersets
@@ -183,6 +189,7 @@ Course For Rockstar Hackers (Volunteering)
 * HTML (HTTP)
 * CSS (HTML)
 * JS (HTML, CSS)
+* AngularJS (JS)
 
 ## Projects
 
