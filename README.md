@@ -57,7 +57,7 @@ Course For Rockstar Hackers (Volunteering)
   * Data Types
   * Indexes
   * Objects
-  * Inheritance 
+  * Inheritance
   * Storage
 * NoSQL
   * BASE
@@ -87,8 +87,8 @@ Course For Rockstar Hackers (Volunteering)
   * Starvation and Fairness
   * CAS Operation
   * Blocking Queue
-  * Non-blocking algorithms 
-  * Thread Safety and Immutability 
+  * Non-blocking algorithms
+  * Thread Safety and Immutability
   * Thread Pools
 * Algorithm Theory
   * Big O Notation
@@ -132,13 +132,19 @@ Course For Rockstar Hackers (Volunteering)
   * Control Statements
   * Functions
   * Objects
-  * Frameworks
+  * AJAX
+* AngularJS
+  * Expressions
+  * Directives
+  * Controllers
+  * Services
+  * Routing
 * Other
   * CSS Preprocessors
   * JS Subsets and Supersets
   * Build Systems
-  
-## Topic Dependencies 
+
+## Topic Dependencies
 
 ###### Volodymyr Stechenko
 * SDLC (None)
@@ -159,7 +165,7 @@ Course For Rockstar Hackers (Volunteering)
 * NoSQL (PostgreSQL)
 * MongoDB (NoSQL)
 * CAP (NoSQL)
-* Distributed Systems (CAP) 
+* Distributed Systems (CAP)
 * Concurrency Theory (None)
 * Algorithm Theory (None)
 * Cloud Computing (None)
@@ -182,7 +188,8 @@ Course For Rockstar Hackers (Volunteering)
 ###### Sviatoslav Sykalo
 * HTML (HTTP)
 * CSS (HTML)
-* JS (HTML, CSS) 
+* JS (HTML, CSS)
+* AngularJS (JS)
 
 ## Projects
 
