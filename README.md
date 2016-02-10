@@ -192,7 +192,16 @@ Course For Rockstar Hackers (Volunteering)
 * AngularJS (JS)
 
 ## Projects
+* Web-Shop Like Projects
+* Crowd Founding Like Projects
+* JS Game Like Projects
+* Random Chat Like Projects
+* Poll Project
+* Custom Idea
 
 ## Students
+
+## TODO
+* Contact previous teachers to understand the basics
 
 Amount : 15 + 12
