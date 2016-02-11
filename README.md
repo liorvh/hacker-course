@@ -193,7 +193,7 @@ Course For Rockstar Hackers (Volunteering)
 
 ## Projects
 * Web-Shop Like Projects
-* Crowd Founding Like Projects
+* Crowdfunding Like Projects
 * JS Game Like Projects
 * Random Chat Like Projects
 * Poll Project
