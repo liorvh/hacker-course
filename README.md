@@ -41,6 +41,7 @@ Course For Rockstar Hackers (Volunteering)
 * JSON
   * Types
   * Syntax
+* XML
 * Distributed Systems
   * Replication
   * Sharding
@@ -160,6 +161,7 @@ Course For Rockstar Hackers (Volunteering)
 
 ###### Dmytro Stechenko
 * JSON (SOA, HTTP)
+* XML (JSON)
 * SQL (Django)
 * PostgresSQL (SQL)
 * NoSQL (PostgreSQL)
