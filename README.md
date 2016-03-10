@@ -110,7 +110,33 @@ Course For Rockstar Hackers (Volunteering)
 
 ###### Dmytro Kolesnyk
 * TCP
-  * OSI Model
+  * OSI model
+  * TCP/IP model
+  * TCP service model
+  * TCP segment header
+  * TCP connection states
+  * TCP load balance
+* HTTP
+  * Overview
+  * Methods 
+  * Headers
+  * Cache
+  * Codes
+* SSL/HTTPS
+  * Encryption algorithms (symmetric and asymmetric)
+  * SSL overview
+  * HTTP using SSL (HTTPS)
+* OAuth
+  * Overview
+  * Protocol workflow
+  * Security architecture
+* Microservices architecture
+  * Client/server architecture 
+  * REST architecture
+  * Microservices architecture
+* Git/GitHub    
+  * Git basics 
+  * GitHub workflow
 
 ###### Sviatoslav Sykalo
 * HTML
