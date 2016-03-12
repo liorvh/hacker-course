@@ -111,7 +111,6 @@ Course For Rockstar Hackers (Volunteering)
 ###### Dmytro Kolesnyk
 * TCP
   * OSI model
-  * TCP/IP model
   * TCP service model
   * TCP segment header
   * TCP connection states
