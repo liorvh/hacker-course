@@ -95,5 +95,3 @@ JavaScript Object Numeration
 { "a" : "hello", "b" : true, "c" : null , "d" : 12 }
 { a : "hello", b : "true", c : "null" , d : "12" }
 { "a" : hello, "b" : true, "c" : null , "d" : 12 }
-
-
