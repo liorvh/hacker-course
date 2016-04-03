@@ -5,7 +5,7 @@ Course For Rockstar Hackers (Volunteering)
 
 ## Lecturers
 * Volodymyr Stechenko [GitHub](https://github.com/Leshist "GitHub Profile") [LinkedIn](https://ua.linkedin.com/in/volodymyr-stechenko-72949191 "LinkedIn Profile")
-* Dmytro Stechenko [GitHub](https://github.com/d5s8 "GitHub Profile") [LinkedIn](https://www.linkedin.com/in/dmytrostechenko "LinkedIn Profile")
+* Dmytro Stechenko [GitHub](https://github.com/dstechenko "GitHub Profile") [LinkedIn](https://www.linkedin.com/in/dmytrostechenko "LinkedIn Profile")
 * Dmytro Kolesnyk [GitHub](https://github.com/kolesnyk "GitHub Profile")
 * Sviatoslav Sykalo [GitHub](https://github.com/svtslvskl "GitHub Profile")
 
@@ -41,6 +41,7 @@ Course For Rockstar Hackers (Volunteering)
 * JSON
   * Types
   * Syntax
+* XML
 * Distributed Systems
   * Replication
   * Sharding
@@ -109,7 +110,32 @@ Course For Rockstar Hackers (Volunteering)
 
 ###### Dmytro Kolesnyk
 * TCP
-  * OSI Model
+  * OSI model
+  * TCP service model
+  * TCP segment header
+  * TCP connection states
+  * TCP load balance
+* HTTP
+  * Overview
+  * Methods 
+  * Headers
+  * Cache
+  * Codes
+* SSL/HTTPS
+  * Encryption algorithms (symmetric and asymmetric)
+  * SSL overview
+  * HTTP using SSL (HTTPS)
+* OAuth
+  * Overview
+  * Protocol workflow
+  * Security architecture
+* Microservices architecture
+  * Client/server architecture 
+  * REST architecture
+  * Microservices architecture
+* Git/GitHub    
+  * Git basics 
+  * GitHub workflow
 
 ###### Sviatoslav Sykalo
 * HTML
@@ -160,6 +186,7 @@ Course For Rockstar Hackers (Volunteering)
 
 ###### Dmytro Stechenko
 * JSON (SOA, HTTP)
+* XML (JSON)
 * SQL (Django)
 * PostgresSQL (SQL)
 * NoSQL (PostgreSQL)
