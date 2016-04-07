@@ -1,0 +1,150 @@
+Анализ результатов вступительного теста
+
+HTML/CSS
+
+Вопрос (В): Какой из вариантов написания Document Type Definition является правильным для версии HTML5?
+Ответ (О): <!DOCTYPE html>
+
+https://developer.mozilla.org/en-US/docs/Glossary/Doctype
+
+
+
+В: Какое значение свойства box-sizing включает в себя width, height, padding и border?
+О: border-box
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
+https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
+
+
+В: Можно ли задать margin для inline элемента?
+О: Нет
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/display
+https://developer.mozilla.org/en-US/docs/Web/CSS/margin
+
+
+В: Какому элементу в HTML соответствует селектор :root?
+О: <html>
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/:root
+
+
+В: Какое значение по умолчанию у свойства position?
+О: static
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/position
+
+
+В: Выберите правила которые создадут новый контекст наложения.
+О:
+.rule { opacity: .99; }	.rule { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); }
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context
+
+
+В: Какое из правил содержит цветовую модель которая не поддерживается в современных браузерах?
+О:
+.rule { color: cmyk(0, 0, 0, 100); }
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/color
+https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
+
+
+В: Выберите свойства которые нельзя анимировать с помощью CSS.
+О: display
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/transition
+https://developer.mozilla.org/en-US/docs/Web/CSS/animation
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties
+
+
+В: В каком месте HTML документа лучше подключать CSS файл?
+О: <head>
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link
+
+
+В: Как расшифровуется аббревиатура CSS?
+О: Cascading Style Sheets
+
+https://developer.mozilla.org/en-US/docs/Web/CSS
+
+
+JS
+
+В: Как правильно подключить JS файл?
+О: 
+<script src="app.js">
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script
+
+
+В: Будет ли выполнен без ошибок следующий код?
+'use strict';	n = 42;
+
+О: false
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
+
+
+В: Что выведет console.log?
+var a = 1;	function() {	  var a = 2;	}	console.log(a);
+О: 1
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#Declarations
+
+
+В: Что выведет console.log?
+console.log(3 > 2 > 1);
+О: false
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
+
+
+В: Выберите типы данных которые существуют в JS.
+О: Boolean, String, Object
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
+
+
+В: Будет ли выполнен без ошибок следующий код?
+wordLogger('foobar');	function wordLogger(word) {	  console.log(word);	}
+
+О: Да
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function
+
+
+
+
+В: Выберите способы которыми можно создать обьект в JS.
+О:
+var objectInstance = new Object();	var objectInstance = {};
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
+
+
+В: Что выведет console.log?
+var a = [1, 2, 3];	console.log(typeof(a));
+
+О: Object
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
+
+
+В: Что выведет console.log?
+console.log(null === undefined);
+
+О: false
+
+https://developer.mozilla.org/en-US/docs/Glossary/Truthy
+https://developer.mozilla.org/en-US/docs/Glossary/Falsy
+
+
+
+В: Сколько аргументов принимает тернарный оператор?
+О: 3
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator
+
