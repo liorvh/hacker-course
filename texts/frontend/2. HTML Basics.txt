@@ -1,0 +1,122 @@
+HTML
+Основы
+
+Структура HTML документа
+<!DOCTYPE html> – Обьявление типа документа.
+<html> – HTML документ начинается и заканчивается этим тегом.
+<head> – Заголовок, описание, мета теги, стили и скрипты находятся внутри этого тега.
+<body> – Видимая часть HTML документа находится внутри этого тега.
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <meta name="description" content="This is an empty document">
+</head>
+<body>
+  
+</body>
+</html>
+
+Комментарии
+Комментарии в HTML пишутся между тегами <!-- -->.
+
+...
+  <!-- This is a single-line comment -->
+
+  <!--
+    This
+    is
+    a
+    multi-line comment
+  -->
+...
+
+
+
+
+Hello World!
+<h1>, <h2>, <h3>, <h4>, <h5>, <h6> – Заголовки.
+<br> – Разрыв строки.
+<p> – Параграф.
+
+...
+  <h1>Hello<br>World!</h1>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+...
+
+Форматирование
+<i>, <b> – теги для визуального выделения текста; <i> (italic) – курсив; <b> (bold) – жирный.
+<em>, <strong> – теги для семантического и визуального выделения текста; <em> (emphasized) – выделенный; <strong> strong – сильный.
+
+...
+  <p>
+    <i>italic</i>
+    <em>emphasized</em>
+    <b>bold</b>
+    <strong>strong</strong>
+  </p>
+...
+
+<small>, <sub>, <sup> ...
+
+Ссылки
+Абсолютные
+...
+  <a href="https://www.google.com">Google.com</a>
+...
+
+Относительные
+...
+  <a href="index.html">Index Page</a>
+...
+
+Изображения
+Тег <img> является пустым и не требует закрывающего тега.
+src (source) – путь к изображению.
+alt (alternate) – описание изображения для пользователей которые не могут его загрузить или не видят.
+
+Браузеры поддерживают изображения в формате gif, jpg, png, svg.
+
+…
+  <img src=”company-logo.png” alt=”Company logo”>
+...
+
+Списки
+<ul></ul> (unordered list) – маркированный список.
+<ol></ol> (ordered list) – нумерованный список.
+<li></li> (list item) – элемент списка.
+
+…
+<ul>
+  <li>List item 1</li>
+  <li>List item 2</li>
+  <li>List item 3</li>
+</ul>
+
+<ul>
+  <li>List item 1</li>
+  <li>List item 2</li>
+  <li>List item 3</li>
+</ul>
+…
+
+
+Таблицы
+Таблицы в HTML содержатся внутри тега <table> (table). Внутри <thead> (table head) и <tbody> (table body) содержатся секции с заголовками таблицы и данными таблицы соответственно. <tr> (table row) – Строка таблицы. <th> (table heading) – Ячейка с заголовком. <td> (table data) – Ячейка с данными.
+
+…
+<table>
+  <thead>
+    <tr>
+      <th>Heading 1</th><th>Heading 2</th><th>Heading 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Data 1</td><td>Data 2</td><td>Data 3</td>
+    </tr>
+  </tbody>
+</table>
+...
